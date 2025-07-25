@@ -22,8 +22,7 @@ Una sencilla app Android que te ayuda a calcular cuánto debe pagar cada persona
 - **Diseño de UI 
 - **Compatibilidad:** Android 5.0 (API 21) o superior
 
-_Puedes añadir aquí imágenes de la app si lo deseas._
-
+  
 ---
 
 ## 🚀 Cómo Ejecutar el Proyecto
